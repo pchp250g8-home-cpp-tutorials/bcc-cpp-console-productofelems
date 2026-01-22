@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2026.01.22 16:51:25.779,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2026.01.22 16:51:25.969,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2026.01.22 16:54:19.706,D:\Projects\Programming\CPP\BDS\Console\Algorithms\ProductOfElems\ProductOfElemsPCH1.h=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2026.01.22 16:54:19.719,D:\Projects\Programming\CPP\BDS\Console\Algorithms\ProductOfElems\File1.cpp=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2026.01.22 16:54:19.730,D:\Projects\Programming\CPP\BDS\Console\Algorithms\ProductOfElems\ProductOfElems.cbproj=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2026.01.22 16:54:31.016,D:\Projects\Programming\CPP\BDS\Console\Algorithms\ProductOfElems\ProductOfElems.cpp=D:\Projects\Programming\CPP\BDS\Console\Algorithms\ProductOfElems\File1.cpp</Transaction>
+    <Transaction>2026.01.22 16:54:37.368,D:\Projects\Programming\CPP\BDS\Console\Algorithms\ProductOfElems\ProductOfElems.cbproj=D:\Projects\Programming\CPP\BDS\Console\Algorithms\ProductOfElems\ProductOfElems.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
